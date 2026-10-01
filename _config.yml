@@ -1,0 +1,15 @@
+# 把 USERNAME 换成你的 GitHub 用户名
+title: 心屿
+description: 把情绪，写成字 —— 记录关系、情绪与生活褶皱的随笔集
+url: "https://uustar-maker.github.io"
+baseurl: ""
+
+theme: minima
+lang: zh-CN
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: 岛主
