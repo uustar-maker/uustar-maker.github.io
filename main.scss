@@ -1,0 +1,30 @@
+---
+---
+
+@import "minima";
+
+/* 心屿：暖纸质感 + 中文衬线排版，适合深夜读字 */
+body {
+  background-color: #faf8f3;
+  font-family: "Songti SC", "STSong", "Noto Serif SC", "SimSun", serif;
+  line-height: 2;
+  color: #3a3632;
+}
+
+.site-header {
+  border-top: 4px solid #c9a876;
+}
+
+.post-title,
+.page-heading {
+  letter-spacing: 0.12em;
+}
+
+.post-content p {
+  margin-bottom: 1.5em;
+  text-align: justify;
+}
+
+.post-list > li {
+  margin-bottom: 2em;
+}
